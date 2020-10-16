@@ -3,7 +3,10 @@ rencana konten syifa
   * es6
   * framework javascript
     ^ angular
-    ^ rect
+    ^ vue
+    ^ react
+- struktur data dasar
 - php frameworks
   ^ laravel
 - vlog
+- phyton
