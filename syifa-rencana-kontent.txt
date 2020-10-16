@@ -3,6 +3,7 @@ rencana konten syifa
   * es6
   * framework javascript
     ^ vue
+    ^ react
 - struktur data dasar
 - php frameworks
   ^ laravel
