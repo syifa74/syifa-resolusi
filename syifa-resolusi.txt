@@ -2,4 +2,4 @@ syifa resolusi
 - konsisten latihan ngoding
 - menguasai bahasa javascript
 - menguasai bahasa php
-- latihan bootstrap konsisten
+- membuat website
