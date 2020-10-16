@@ -2,6 +2,7 @@ rencana konten syifa
 - javascript
   * es6
   * framework javascript
+    ^ angular
     ^ vue
     ^ react
 - struktur data dasar
