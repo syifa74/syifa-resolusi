@@ -2,6 +2,8 @@ rencana konten syifa
 - javascript
   * es6
   * framework javascript
-- struktur data dasar
+    ^ angular
+    ^ rect
 - php frameworks
+  ^ laravel
 - vlog
