@@ -1,0 +1,4 @@
+syifa resolusi
+- konsisten latihan ngoding
+- menguasai bahasa javascript
+- menguasai bahasa php
